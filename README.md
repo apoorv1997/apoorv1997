@@ -29,7 +29,7 @@
 
 <h3><code>apoorv1997@github ~ $ ./links.sh</code></h3>
 
-<p><b>Backend Developer · AI Builder</b></p>
+<p><b>Backend Developer · AI Builder · Platform Engineer</b></p>
 
 <!-- [![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
