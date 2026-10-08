@@ -5,7 +5,7 @@
 
 <h3><code>apoorv1997@github ~ $ ./contributions.sh</code></h3>
 
-<img src="./contrib-heatmap.svg" width="860" alt="Avi's GitHub contribution graph — auto-refreshed daily" />
+<img src="./contrib-heatmap.svg" width="860" alt="Apoorv's GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
@@ -19,8 +19,8 @@
 
 <table>
 <tr>
-<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Avi Vashishta — ASCII portrait" /></td>
-<td valign="top"><img src="./stats.svg" width="420" alt="Avi's GitHub streak and contribution stats — auto-refreshed daily" /></td>
+<td valign="top"><img src="./avi-ascii.svg" width="420" alt="Apoorv's — ASCII portrait" /></td>
+<td valign="top"><img src="./stats.svg" width="420" alt="Apoorv's GitHub streak and contribution stats — auto-refreshed daily" /></td>
 </tr>
 </table>
 
