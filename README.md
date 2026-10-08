@@ -27,7 +27,7 @@
 <br>
 <br>
 
-<h3><code>avi@github ~ $ ./links.sh</code></h3>
+<h3><code>apoorv1997@github ~ $ ./links.sh</code></h3>
 
 <p><b>Backend Developer · AI Builder</b></p>
 
